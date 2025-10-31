@@ -303,7 +303,7 @@ Note : the policy is WIP (steps 10 to 14 are not included in currenrt policy)
 
 ## 11. Demo Credentials
 
-- Deployed instance: `http://185.206.122.21:3000/`. Credentials will be provided in DoraHacks submission form.
+- Deployed instance: `http://185.206.122.21:3000/`. Credentials will be provided upon request.
 
 ## 12. License
 
