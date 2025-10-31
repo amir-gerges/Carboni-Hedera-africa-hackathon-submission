@@ -27,7 +27,7 @@ Carboni leverages Hedera Guardian to tokenize renewable energy hourly generation
 
 - **Integration of Advanced Technologies:** Use of smart meters for precise tracking and verification of energy generation, consumption, and offsets.
 - **Transparent and Secure Data Management:** Data captured is securely stored on the Hedera DLT, ensuring transparency and immutability, leveraging the Guardian Managed Service.
-- **Tokenization of Renewable Energy Certificatation and offsetting:** Minting of REN tokens to encapsulate the value of renewable energy generated, providing tangible rewards and incentivizing further participation in green energy generation.
+- **Tokenization of Renewable Energy Certification and offsetting:** Minting of REN tokens to encapsulate the value of renewable energy generated, providing tangible rewards and incentivizing further participation in green energy generation.
 
 ## 2. Architecture & Hedera Usage
 
