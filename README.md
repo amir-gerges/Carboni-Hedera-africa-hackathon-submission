@@ -6,13 +6,14 @@ This repository contains the submission assets for the Carboni project.
 - [Slide deck](Carboni-Hedera-Africa-Hackathon-Pitch-Deck.pdf)
 - [Policy artifacts](carboni-policy/)
 - [Schema artifacts](schema/)
+- [Hashgraph Certificate](Certificates/)
 
 ## 1. Project Overview
 
 - **Project name**: Carboni — Renewable Energy NFT Offset Platform
 - **Summary**: Tokenize renewable energy and retire fractional NFTs to offset hourly consumption with verifiable, tamper‑proof data on Hedera.
 - **Vision**: End‑to‑end transparency from meter to retirement using Guardian VCs, HCS logging, and HTS tokens.
-- **Track**: Onchain Finance & RWA (Tokenized Renewable Energy Certificates)
+- **Track**: Track II: DLT For Operations.
 
 ### Problem Statement
 
@@ -26,7 +27,7 @@ Carboni leverages Hedera Guardian to tokenize renewable energy hourly generation
 
 - **Integration of Advanced Technologies:** Use of smart meters for precise tracking and verification of energy generation, consumption, and offsets.
 - **Transparent and Secure Data Management:** Data captured is securely stored on the Hedera DLT, ensuring transparency and immutability, leveraging the Guardian Managed Service.
-- **Tokenization of Carbon Sequestration:** Minting of REN tokens to encapsulate the value of renewable energy generated, providing tangible rewards and incentivizing further participation in green energy generation.
+- **Tokenization of Renewable Energy Certificatation and offsetting:** Minting of REN tokens to encapsulate the value of renewable energy generated, providing tangible rewards and incentivizing further participation in green energy generation.
 
 ## 2. Architecture & Hedera Usage
 
@@ -36,7 +37,7 @@ Carboni leverages Hedera Guardian to tokenize renewable energy hourly generation
 
 ## 3. Technology Readiness Level and Evidence
 
-TRL: 2 Prototype (Working Guardian policy)
+TRL: Prototype (Working Guardian policy)
 
 ### Hedera Testnet transactions
 
